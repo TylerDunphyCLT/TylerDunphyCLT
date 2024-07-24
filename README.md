@@ -1,6 +1,5 @@
 - Hello, my name is Tyler Dunphy, AKA @TylerDunphyCLT
-- I'm currently a Computer Science student at UNC Charlotte!
-- I am expecting to graduate in the spring of 2024!
+- Recent UNC Charlotte Grad - Computer Science Bachelors
 - This github page has both my school related projects and my personal projects as well!
 
 MORE ABOUT ME:
